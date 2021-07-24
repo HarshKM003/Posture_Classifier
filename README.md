@@ -7,8 +7,8 @@ asana. We used a pretrained VGG16 model to train our dataset where we try to det
 the accuracy of estimating the correct posture of the yoga.
 
 The poses that we had decided to classify are-
-1.Downword dog pose
-2.Tree Pose
-3.Godess pose
-4.Plank pose
+1.Downword dog pose\n
+2.Tree Pose\n
+3.Godess pose\n
+4.Plank pose\n
 5.Warrior pose
