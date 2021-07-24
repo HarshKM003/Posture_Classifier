@@ -6,7 +6,7 @@ concept along with open CV library package to estimate the right posture for yog
 asana. We used a pretrained VGG16 model to train our dataset where we try to detect the posture and enhance
 the accuracy of estimating the correct posture of the yoga.
 
-The poses that we had decided to classify are-
+The poses that we had decided to classify are-                                                                                                                                     
 1.Downword dog pose                                                                                                                                                                 
 2.Tree Pose                                                                                                                                                                         
 3.Godess pose                                                                                                                                                                       
