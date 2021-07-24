@@ -1,0 +1,11 @@
+We have taken our dataset from Kaggle
+
+(https://www.kaggle.com/niharika41298/yoga-poses-dataset).
+
+This data set contains 1551 image file. These files are categorised into train and
+test folder. Inside them there are 5 sub folders each corresponding to 5 classes
+of yoga poses. The train and test data were split in 70-30 proportion. The 5
+classes of yoga poses are downward dog pose, goddess pose, tree pose, plank
+pose and the warrior pose.
+
+Apart from this we have also taken images from other sources like google images and pexels.com for testing and validation purpose.
